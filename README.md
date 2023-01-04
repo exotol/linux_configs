@@ -1,1 +1,3 @@
-# linux_configs
+## soft install
+
+sudo snap install alacritty --classic
